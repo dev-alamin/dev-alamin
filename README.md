@@ -1,4 +1,5 @@
-# Al Amin - WordPress Developer
+# Al Amin - Web Application Developer
+### WordPress Theme & Plugin Developer with 4 years of experience
 
 📍 Dhaka, Bangladesh
 📧 Email: hmalaminmb4@gmail.com
@@ -19,24 +20,30 @@ I'm Al Amin, a passionate WordPress developer with a strong frontend background.
 - HTML, CSS, Bootstrap
 - WordPress theme development and customization
 - PHP, MySQL
+- Git & GitHub
+- Basic server management (Linode, Cloudflare, Vultr)
 - WordPress theme and plugin development
 - WP CLI and Linux command line
 - Extending existing WordPress plugins or creating new ones
 
 ## Work Experience
 **WordPress Developer**
+Fiverr - Freelance marketplace
+📅 January 2020 - October 2021
+
+**WordPress Developer**
 BluBird Interactive Limited
 📅 November 2021 - January 2023
 
-**Senior WordPress Developer**
-Social Horizon Marketing, Italy
-📅 January 2023 - February 2023
+**WordPress Plugin Developer**
+ShalikDev
+📅 January 2023 - Present
 
 ## Achievements and Responsibilities
 
 - 🌟 **Exceptional Fiverr Reviews**: Received glowing reviews on Fiverr, consistently delivering exceptional service and exceeding client expectations.
 
-- 💼 **WordPress Plugin Development**: Successfully crafted and launched custom WordPress plugins, including notable projects like:
+- 💼 **WordPress Plugin Development**: Successfully developed and launched custom WordPress plugins, including notable projects like:
   - [si-investment](https://github.com/dev-alamin/si-investemt)
   - [usercode-activation-with-wc](https://github.com/dev-alamin/usercode-activation-with-wc)
   - [wc-simplify](https://github.com/dev-alamin/wc-simplify)
