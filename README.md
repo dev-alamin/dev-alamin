@@ -56,7 +56,7 @@ Freelace Project, Opensource Contribution
 
 - 💼 **WordPress Plugin Development**: Successfully developed and launched custom WordPress plugins, including notable projects like:
 - [ThemeForest Premium Theme](https://themeforest.net/user/shalik-theme/portfolio) – Commercial-quality frontend theme development.
-- [Client Project: VapeHub](https://vapehub.co.uk) – A mid-size WooCommerce business (~$500K/year), focused on performance & UX.
+- [Client Project: VapeHub](https://vapehub.co.uk) – A mid-size WooCommerce business (~$500K/monthly), focused on performance & UX.
 - [Client Project: LifeFriendSurance](https://lifefriendsurance.com) – Full site recovery, VPS deployment, security hardening after hack.
 - [Read Little – WP Plugin](https://wordpress.org/plugins/read-little/) – A plugin to display any type of docuemnt, images in product page of Woocommerce
 - [ShopSpark Plugin](https://github.com/dev-alamin/ShopSpark) – A modular WooCommerce enhancement plugin (in progress).
