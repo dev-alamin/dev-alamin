@@ -38,6 +38,11 @@ I'm Al Amin, a passionate WordPress developer with a strong frontend background.
 - 🧠 Extreme problem solver/debugger
 
 ## Work Experience
+
+**WordPress Plugin Developer**
+Freelace Project, Opensource Contribution
+📅 January 2023 - Present
+
 **WordPress Developer**
 Fiverr - Freelance marketplace
 📅 January 2020 - October 2021
@@ -46,23 +51,35 @@ Fiverr - Freelance marketplace
 BluBird Interactive Limited
 📅 November 2021 - January 2023
 
-**WordPress Plugin Developer**
-Freelace Project, Opensource Contribution
-📅 January 2023 - Present
-
 ## Achievements and Responsibilities
 
 - 🌟 **Exceptional Fiverr Reviews**: Received glowing reviews on Fiverr, consistently delivering exceptional service and exceeding client expectations.
 
-- 💼 **WordPress Plugin Development**: Successfully developed and launched custom WordPress plugins, including notable projects like:
-- [ThemeForest Premium Theme](https://themeforest.net/user/shalik-theme/portfolio) – Commercial-quality frontend theme development.
-- [Client Project: VapeHub](https://vapehub.co.uk) – A mid-size WooCommerce business (~$500K/monthly), focused on performance & UX.
-- [Client Project: LifeFriendSurance](https://lifefriendsurance.com) – Full site recovery, VPS deployment, security hardening after hack.
-- [Read Little – WP Plugin](https://wordpress.org/plugins/read-little/) – A plugin to display any type of docuemnt, images in product page of Woocommerce
-- [ShopSpark Plugin](https://github.com/dev-alamin/ShopSpark) – A modular WooCommerce enhancement plugin (in progress).
-- [si-investment](https://github.com/dev-alamin/si-investemt) – Custom investment plugin for tracking investments in WordPress.
-- [usercode-activation-with-wc](https://github.com/dev-alamin/usercode-activation-with-wc) – WooCommerce addon to activate user access via unique codes.
-- [wc-simplify](https://github.com/dev-alamin/wc-simplify) – Plugin to simplify the WooCommerce interface for specific client needs.
+## 💼 WordPress Plugin & Web Development
+
+Successfully developed and launched several custom WordPress plugins and client projects, demonstrating deep expertise in performance, scalability, and modern WordPress architecture.
+
+- [**EntryDashboard – WPForms Entry Manager**](https://wordpress.org/plugins/entries-manager/)  
+  Advanced entry management system with Tailwind & AlpineJS, Google Sheets integration, CSV export, server-side pagination, and Action Scheduler-based async export system.
+  
+- [**ThemeForest Premium Theme**](https://themeforest.net/user/shalik-theme/portfolio)  
+  Commercial-quality frontend theme development with professional code structure, responsive design, and clean UI/UX principles.
+
+- [**Client Project: VapeHub**](https://vapehub.co.uk)  
+  A mid-size WooCommerce business (~$500K/monthly) optimized for lightning-fast performance, improved checkout flow, and enhanced UX consistency.
+
+- [**Client Project: LifeFriendSurance**](https://lifefriendsurance.com)  
+  Full site recovery, VPS deployment, SSL configuration, malware cleanup, and advanced security hardening after a major hack.
+
+- [**Read Little – WP Plugin**](https://wordpress.org/plugins/read-little/)  
+  A lightweight plugin to display any type of document or image directly inside WooCommerce product pages.
+
+- [**ShopSpark Plugin**](https://github.com/dev-alamin/ShopSpark)  
+  A modular WooCommerce enhancement plugin built with scalability and clean architecture in mind (in progress).
+
+- [**Client Project: Hayati Vape**](https://hayativape.co.uk/)  
+  Fully developed and maintained with enterprise-grade security, DigitalOcean cloud hosting, CDN optimization, and SEO-focused architecture.
+
 
 - 🤝 **Collaborative Development**: Collaborated effectively within cross-functional teams, contributing to the creation of clean and efficient code. Proficient in HTML, CSS, Bootstrap, and SASS, ensuring seamless teamwork and high-quality output.
 
