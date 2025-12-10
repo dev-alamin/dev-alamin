@@ -1,15 +1,15 @@
 # Al Amin - Web Application Developer
-### WordPress Theme & Plugin Developer with 4 years of experience
+### WordPress Theme & Plugin Developer
 
-📍 Dhaka, Bangladesh
+📍 Khulna, Bangladesh
 📧 Email: hmalaminmb4@gmail.com
 
 ## About Me
 I'm Al Amin, a passionate WordPress developer with a strong frontend background. Building engaging websites is my forte, and I'm always eager to explore new trends and challenges in the web development world.
 
-- 🔭 I’m currently working on crafting premium Themeforest templates with advanced frontend skills.
-- 🌱 I’m currently learning new WordPress trends and techniques.
-- 👯 I’m looking to collaborate on exciting open-source WordPress projects.
+- 🔭 I’m currently working on ShopSpark Plugin.
+- 🌱 I’m currently learning React & NextJS.
+- 👯 I’m looking to collaborate on exciting open-source projects.
 - 🤔 I’m looking for help with optimizing website performance and scaling.
 - 💬 Ask me about WordPress, frontend development, or web performance.
 - 📫 How to reach me: [Email](mailto:hmalaminmb4@gmail.com)
@@ -24,16 +24,15 @@ I'm Al Amin, a passionate WordPress developer with a strong frontend background.
 
 ## Skills
 - 🧩 WordPress Custom Themes & Plugins
-- 💻 PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind, JavaScript, jQuery
+- 💻 PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind, JavaScript, jQuery, React, NextJS
 - 🛒 WooCommerce Customization & Addon Development
-- 🧱 Custom Post Types, Taxonomies, REST API
+- 🧱 WP Custom Post Types, Taxonomies, REST API
 - 🚀 Website Speed & Core Web Vitals Optimization
 - 🛡️ Malware Cleanup, Security Fixes, Backup & Restore
 - 🌐 Server Management (cPanel, WP Engine, Cloudways, Pantheon, Vultr, DO or Any Cloud/VSP)
 - 🧑‍💻 Git, WP CLI, Linux CLI (Ubuntu user by default)
 - 📱 Cross-browser & Responsive Design
 - 🐞 Debugging (Chrome DevTools, Firebug, Query Monitor)
-- 🤝 4+ years direct client handling experience
 - 🌍 Fully remote environment setup ready to go
 - 🧠 Extreme problem solver/debugger
 
