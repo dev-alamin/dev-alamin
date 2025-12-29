@@ -8,7 +8,7 @@
 I specialize in the technical side of WordPress—moving beyond page builders to build scalable, secure, and high-performance solutions. My experience ranges from contributing to **rtCamp's enterprise plugins** to architecting custom database-driven applications (Forms Entries Manager). I am deeply familiar with **OOP PHP, WP-CLI, REST API integrations, and secure coding standards.**
 
 ## 🔗 Links:
--WordPress: [coderalamin](https://profiles.wordpress.org/coderalamin/)
+- WordPress: [coderalamin](https://profiles.wordpress.org/coderalamin/)
 - LeetCode: [dev-alamin](https://leetcode.com/u/dev-alamin/)
 - LinkedIn: [contactalamin](https://www.linkedin.com/in/contactalamin/)
 - ThemeForest: [Shalik Theme](https://themeforest.net/user/shalik-theme/portfolio)
