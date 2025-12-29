@@ -1,22 +1,14 @@
 # Al Amin - Web Application Developer
-### WordPress Theme & Plugin Developer
+### WordPress Engineer | PHP & JavaScript 
 
 📍 Khulna, Bangladesh
 📧 Email: hmalaminmb4@gmail.com
 
 ## About Me
-I'm Al Amin, a passionate WordPress developer with a strong frontend background. Building engaging websites is my forte, and I'm always eager to explore new trends and challenges in the web development world.
-
-- 🔭 I’m currently working on ShopSpark Plugin.
-- 🌱 I’m currently learning React & NextJS.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 🤔 I’m looking for help with optimizing website performance and scaling.
-- 💬 Ask me about WordPress, frontend development, or web performance.
-- 📫 How to reach me: [Email](mailto:hmalaminmb4@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy watching cricket and exploring new destinations in my leisure time.
+I specialize in the technical side of WordPress—moving beyond page builders to build scalable, secure, and high-performance solutions. My experience ranges from contributing to **rtCamp's enterprise plugins** to architecting custom database-driven applications (Forms Entries Manager). I am deeply familiar with **OOP PHP, WP-CLI, REST API integrations, and secure coding standards.**
 
 ## 🔗 Links:
+-WordPress: [coderalamin](https://profiles.wordpress.org/coderalamin/)
 - LeetCode: [dev-alamin](https://leetcode.com/u/dev-alamin/)
 - LinkedIn: [contactalamin](https://www.linkedin.com/in/contactalamin/)
 - ThemeForest: [Shalik Theme](https://themeforest.net/user/shalik-theme/portfolio)
