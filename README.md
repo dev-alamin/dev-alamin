@@ -1,11 +1,16 @@
-# Al Amin - Web Application Developer
-### WordPress Engineer | PHP & JavaScript 
+# Al Amin - Software Engineer
+### WordPress | PHP & JavaScript | React | Next.js
 
 📍 Khulna, Bangladesh
 📧 Email: hmalaminmb4@gmail.com
 
 ## About Me
-I specialize in the technical side of WordPress—moving beyond page builders to build scalable, secure, and high-performance solutions. My experience ranges from contributing to **rtCamp's enterprise plugins** to architecting custom database-driven applications (Forms Entries Manager). I am deeply familiar with **OOP PHP, WP-CLI, REST API integrations, and secure coding standards.**
+I focus on the engineering side of WordPress—building scalable, secure, and performance-driven systems rather than relying on page builders. My work includes contributing to **enterprise-grade plugins at rtCamp** and designing custom, database-driven applications like Entries Manager.
+
+I also build **headless WordPress architectures**, using the REST API to power modern frontend experiences with **React and Next.js**. This allows me to combine WordPress’s robust content management capabilities with fast, flexible, and maintainable frontend applications.
+
+Across my work, I emphasize clean **OOP PHP design, WP-CLI automation, secure coding standards, and API-first** development to deliver solutions that are reliable, extensible, and production-ready.
+
 
 ## 🔗 Links:
 - WordPress: [coderalamin](https://profiles.wordpress.org/coderalamin/)
@@ -15,18 +20,18 @@ I specialize in the technical side of WordPress—moving beyond page builders to
 - Portfolio: [almn.me](https://almn.me)
 
 ## Skills
-- 🧩 WordPress Custom Themes & Plugins
-- 💻 PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind, JavaScript, jQuery, React, NextJS
-- 🛒 WooCommerce Customization & Addon Development
-- 🧱 WP Custom Post Types, Taxonomies, REST API
-- 🚀 Website Speed & Core Web Vitals Optimization
-- 🛡️ Malware Cleanup, Security Fixes, Backup & Restore
-- 🌐 Server Management (cPanel, WP Engine, Cloudways, Pantheon, Vultr, DO or Any Cloud/VSP)
-- 🧑‍💻 Git, WP CLI, Linux CLI (Ubuntu user by default)
-- 📱 Cross-browser & Responsive Design
-- 🐞 Debugging (Chrome DevTools, Firebug, Query Monitor)
-- 🌍 Fully remote environment setup ready to go
-- 🧠 Extreme problem solver/debugger
+- 🧩 WordPress Engineering – Custom theme and plugin development focused on scalability, clean architecture, and maintainability
+- 💻 Tech Stack – PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery, React, Next.js
+- 🛒 WooCommerce Development – Custom features, extensions, and performance-focused enhancements
+- 🧱 WordPress Architecture – Custom Post Types, taxonomies, metadata modeling, and REST API integrations
+- 🚀 Performance Optimization – Core Web Vitals tuning, caching strategies, asset optimization, and database performance improvements
+- 🛡️ Security & Reliability – Malware cleanup, hardening, backup strategies, and recovery workflows
+- 🌐 Infrastructure & Hosting – Deployment and server management across cPanel, WP Engine, Cloudways, Pantheon, Vultr, DigitalOcean, and cloud VPS platforms
+- 🧑‍💻 Developer Tooling – Git-based workflows, WP-CLI automation, and daily Linux CLI usage (Ubuntu environments)
+- 📱 Frontend Quality – Cross-browser compatibility, responsive layouts, and accessibility-conscious implementation
+- 🐞 Debugging & Profiling – Chrome DevTools, Query Monitor, Xdebug, and structured performance investigation practices
+- 🌍 Remote Workflow Ready – Fully equipped for distributed teams, async communication, and independent delivery
+- 🧠 Problem Solver – Strong analytical approach to debugging, root-cause analysis, and long-term technical solutions
 
 ## Work Experience
 
