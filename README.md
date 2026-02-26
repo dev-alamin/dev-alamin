@@ -20,18 +20,18 @@ Across my work, I emphasize clean **OOP PHP design, WP-CLI automation, secure co
 - Portfolio: [almn.me](https://almn.me)
 
 ## Skills
-- 🧩 WordPress Engineering – Custom theme and plugin development focused on scalability, clean architecture, and maintainability
-- 💻 Tech Stack – PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery, React, Next.js
-- 🛒 WooCommerce Development – Custom features, extensions, and performance-focused enhancements
-- 🧱 WordPress Architecture – Custom Post Types, taxonomies, metadata modeling, and REST API integrations
-- 🚀 Performance Optimization – Core Web Vitals tuning, caching strategies, asset optimization, and database performance improvements
-- 🛡️ Security & Reliability – Malware cleanup, hardening, backup strategies, and recovery workflows
-- 🌐 Infrastructure & Hosting – Deployment and server management across cPanel, WP Engine, Cloudways, Pantheon, Vultr, DigitalOcean, and cloud VPS platforms
-- 🧑‍💻 Developer Tooling – Git-based workflows, WP-CLI automation, and daily Linux CLI usage (Ubuntu environments)
-- 📱 Frontend Quality – Cross-browser compatibility, responsive layouts, and accessibility-conscious implementation
-- 🐞 Debugging & Profiling – Chrome DevTools, Query Monitor, Xdebug, and structured performance investigation practices
-- 🌍 Remote Workflow Ready – Fully equipped for distributed teams, async communication, and independent delivery
-- 🧠 Problem Solver – Strong analytical approach to debugging, root-cause analysis, and long-term technical solutions
+- 🧩 **WordPress Engineering** – Custom theme and plugin development focused on scalability, clean architecture, and maintainability
+- 💻 **Tech Stack** – PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery, React, Next.js
+- 🛒 **WooCommerce Development** – Custom features, extensions, and performance-focused enhancements
+- 🧱 **WordPress Architecture** – Custom Post Types, taxonomies, metadata modeling, and REST API integrations
+- 🚀 **Performance Optimization** – Core Web Vitals tuning, caching strategies, asset optimization, and database performance improvements
+- 🛡️ **Security & Reliability** – Malware cleanup, hardening, backup strategies, and recovery workflows
+- 🌐 **Infrastructure & Hosting** – Deployment and server management across cPanel, WP Engine, Cloudways, Pantheon, Vultr, DigitalOcean, and cloud VPS platforms
+- 🧑‍💻 **Developer Tooling** – Git-based workflows, WP-CLI automation, and daily Linux CLI usage (Ubuntu environments)
+- 📱 **Frontend Quality** – Cross-browser compatibility, responsive layouts, and accessibility-conscious implementation
+- 🐞 **Debugging & Profiling** – Chrome DevTools, Query Monitor, Xdebug, and structured performance investigation practices
+- 🌍 **Remote Workflow Ready** – Fully equipped for distributed teams, async communication, and independent delivery
+- 🧠 **Problem Solver** – Strong analytical approach to debugging, root-cause analysis, and long-term technical solutions
 
 ## Work Experience
 
