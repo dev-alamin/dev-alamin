@@ -1,115 +1,147 @@
-# Al Amin - Software Engineer
-### WordPress | PHP & JavaScript | React | Next.js
+# Al Amin — WordPress Engineer
 
-📍 Khulna, Bangladesh
-📧 Email: hmalaminmb4@gmail.com
+**Building production-grade WordPress systems. Not themes. Not page builders. Engineered plugins, WooCommerce infrastructure, and server-managed deployments.**
 
-## About Me
-I focus on the engineering side of WordPress—building scalable, secure, and performance-driven systems rather than relying on page builders. My work includes contributing to **enterprise-grade plugins at rtCamp** and designing custom, database-driven applications like Entries Manager.
+📍 Khulna, Bangladesh &nbsp;·&nbsp; 🌐 [almn.me](https://almn.me) &nbsp;·&nbsp; 📧 hmalaminmb4@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/contactalamin/)
 
-I also build **headless WordPress architectures**, using the REST API to power modern frontend experiences with **React and Next.js**. This allows me to combine WordPress’s robust content management capabilities with fast, flexible, and maintainable frontend applications.
+---
 
-Across my work, I emphasize clean **OOP PHP design, WP-CLI automation, secure coding standards, and API-first** development to deliver solutions that are reliable, extensible, and production-ready.
+## What I Build
 
+I specialize in the backend engineering layer of WordPress — custom plugin architecture, WooCommerce business logic, REST API systems, and server-level infrastructure. I manage **20+ live production websites** on self-configured VPS environments (Ubuntu + Nginx), and I understand the full stack from DNS and Cloudflare edge rules down to PHP process management and database query optimization.
 
-## 🔗 Links:
-- WordPress: [coderalamin](https://profiles.wordpress.org/coderalamin/)
-- LeetCode: [dev-alamin](https://leetcode.com/u/dev-alamin/)
-- LinkedIn: [contactalamin](https://www.linkedin.com/in/contactalamin/)
-- ThemeForest: [Shalik Theme](https://themeforest.net/user/shalik-theme/portfolio)
-- Portfolio: [almn.me](https://almn.me)
+My work is production-grade: sanitized inputs, prepared SQL statements, proper nonce handling, capability checks, and WordPress Coding Standards throughout.
 
-## Skills
-- 🧩 **WordPress Engineering** – Custom theme and plugin development focused on scalability, clean architecture, and maintainability
-- 💻 **Tech Stack** – PHP, MySQL, HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery, React, Next.js
-- 🛒 **WooCommerce Development** – Custom features, extensions, and performance-focused enhancements
-- 🧱 **WordPress Architecture** – Custom Post Types, taxonomies, metadata modeling, and REST API integrations
-- 🚀 **Performance Optimization** – Core Web Vitals tuning, caching strategies, asset optimization, and database performance improvements
-- 🛡️ **Security & Reliability** – Malware cleanup, hardening, backup strategies, and recovery workflows
-- 🌐 **Infrastructure & Hosting** – Deployment and server management across cPanel, WP Engine, Cloudways, Pantheon, Vultr, DigitalOcean, and cloud VPS platforms
-- 🧑‍💻 **Developer Tooling** – Git-based workflows, WP-CLI automation, and daily Linux CLI usage (Ubuntu environments)
-- 📱 **Frontend Quality** – Cross-browser compatibility, responsive layouts, and accessibility-conscious implementation
-- 🐞 **Debugging & Profiling** – Chrome DevTools, Query Monitor, Xdebug, and structured performance investigation practices
-- 🌍 **Remote Workflow Ready** – Fully equipped for distributed teams, async communication, and independent delivery
-- 🧠 **Problem Solver** – Strong analytical approach to debugging, root-cause analysis, and long-term technical solutions
+---
 
-## Work Experience
+## Core Competencies
 
-**WordPress Plugin Developer**
-Freelace Project, Opensource Contribution
-📅 January 2023 - Present
+**WordPress Engineering**
+- Custom plugin development with OOP PHP — service container pattern, hook-based architecture, single-responsibility classes
+- WooCommerce extensions: custom pricing logic, checkout flow, cart manipulation, REST API endpoints, order lifecycle hooks
+- Gutenberg block development and Full Site Editing (FSE) integration
+- Custom Post Types, taxonomies, metadata modeling, and query optimization
+- REST API design: custom endpoints, authentication, pagination, caching layers
+- WP-CLI automation for deployments, data migrations, and maintenance tasks
 
-**WordPress Developer**
-Fiverr - Freelance marketplace
-📅 January 2020 - October 2021
+**DevOps & Server Infrastructure**
+- Managing 20+ websites on VPS (Ubuntu + Nginx) — zero shared hosting
+- Cloudflare configuration: WAF rules, bot protection, caching behavior, page rules, Workers
+- SSL/TLS management, DNS configuration, HTTP/2 optimization
+- Nginx server block configuration, PHP-FPM tuning, OPcache setup
+- DigitalOcean, Vultr, Cloudways, WP Engine, Pantheon deployments
+- CI/CD pipelines with GitHub Actions for automated plugin deployments
+- Network-level security: rate limiting, fail2ban, IP allowlisting, bad bot filtering at the edge
 
-**WordPress Developer**
-BluBird Interactive Limited
-📅 November 2021 - January 2023
+**Performance Engineering**
+- Core Web Vitals optimization (LCP, CLS, INP)
+- Object caching, transient API, full-page caching strategies
+- Database query profiling with Query Monitor and slow query logs
+- Asset optimization: lazy loading, critical CSS, script defer/async strategy
+- CDN configuration and cache purge automation
 
-## Achievements and Responsibilities
+**Security**
+- Malware remediation and hacked site recovery (50+ sites)
+- Hardening: file permissions, `wp-config.php` protection, xmlrpc disabling, login protection
+- OAuth 2.0 implementation (Google API integration in EntryDashboard)
+- Secure AJAX handlers, REST API authentication, nonce verification
 
-- 🌟 **Exceptional Fiverr Reviews**: Received glowing reviews on Fiverr, consistently delivering exceptional service and exceeding client expectations.
+**Frontend**
+- JavaScript (ES6+), Alpine.js, React, jQuery
+- Tailwind CSS, SCSS, Bootstrap
+- Headless WordPress with Next.js and REST API / WPGraphQL
 
-## 💼 WordPress Plugin & Web Development
+---
 
-Successfully developed and launched several custom WordPress plugins and client projects, demonstrating deep expertise in performance, scalability, and modern WordPress architecture.
+## Open Source Projects
 
-- [**EntryDashboard – WPForms Entry Manager**](https://wordpress.org/plugins/entries-manager/)  
-  Advanced entry management system with Tailwind & AlpineJS, Google Sheets integration, CSV export, server-side pagination, and Action Scheduler-based async export system.
-  
-- [**ThemeForest Premium Theme**](https://themeforest.net/user/shalik-theme/portfolio)  
-  Commercial-quality frontend theme development with professional code structure, responsive design, and clean UI/UX principles.
+### [EntryDashboard – Forms Entries Manager](https://wordpress.org/plugins/entries-manager/)
+*Live on WordPress.org 30+ active installation*
 
-- [**Client Project: VapeHub**](https://vapehub.co.uk)  
-  A mid-size WooCommerce business (~$500K/monthly) optimized for lightning-fast performance, improved checkout flow, and enhanced UX consistency.
+A centralized form submission management system — a lightweight CRM built directly inside WordPress. Supports WPForms, Contact Form 7, and Elementor Forms.
 
-- [**Client Project: LifeFriendSurance**](https://lifefriendsurance.com)  
-  Full site recovery, VPS deployment, SSL configuration, malware cleanup, and advanced security hardening after a major hack.
+**Technical highlights:**
+- OAuth 2.0 Google Sheets integration (no API key exposure — uses a secure backend proxy)
+- Action Scheduler-based async bulk export system
+- Server-side pagination and global search with optimized `$wpdb` queries
+- Alpine.js + Tailwind admin UI
+- Full WordPress.org compliance: prefixed namespaces, `$wpdb->prepare()`, proper escaping, i18n-ready
 
-- [**Read Little – WP Plugin**](https://wordpress.org/plugins/read-little/)  
-  A lightweight plugin to display any type of document or image directly inside WooCommerce product pages.
+---
 
-- [**ShopSpark Plugin**](https://github.com/dev-alamin/ShopSpark)  
-  A modular WooCommerce enhancement plugin built with scalability and clean architecture in mind (in progress).
+### [ShopSpark – WooCommerce UX Plugin](https://github.com/dev-alamin/ShopSpark)
+*In active development*
 
-- [**Client Project: Hayati Vape**](https://hayativape.co.uk/)  
-  Fully developed and maintained with enterprise-grade security, DigitalOcean cloud hosting, CDN optimization, and SEO-focused architecture.
+A modular WooCommerce enhancement plugin covering the full shopper journey — shop page, single product, cart, and checkout.
 
+**Features in build:**
+- AJAX Add to Cart, Quick View, floating side cart
+- Variation display enhancements, quantity controls
+- FOMO countdown timers, recently viewed products
+- Delivery time picker at checkout
+- Honeypot + reCAPTCHA on account pages
 
-- 🤝 **Collaborative Development**: Collaborated effectively within cross-functional teams, contributing to the creation of clean and efficient code. Proficient in HTML, CSS, Bootstrap, and SASS, ensuring seamless teamwork and high-quality output.
+---
 
-- 🎨 **Design and Integration**: Led design initiatives and seamlessly integrated new features into existing websites, enhancing overall user experience and site functionality.
+### [rtCamp / Login with Google](https://github.com/rtCamp/login-with-google)
+*Open source contribution — enterprise-grade plugin used across production WordPress sites*
 
-- 🛠️ **Website Management**: Provided ongoing website management and support, ensuring optimal performance, user engagement, and a seamless online experience.
+Contributed to rtCamp's official Google login plugin for WordPress. This plugin follows strict enterprise coding standards including PHPCS, unit testing, and WordPress VIP compatibility.
 
+---
 
+### [Read Little – WooCommerce Plugin](https://wordpress.org/plugins/read-little/)
+*Live on WordPress.org*
 
-## 🎓 Academic & CS Learning Background
+Lightweight plugin to embed documents and images directly inside WooCommerce product pages.
 
-- 🎓 Bachelor of Arts from the University of Dhaka
+---
 
-- 📘 Self-taught Computer Science fundamentals through active learning:
-  - 🧠 Solving Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/)
-  - 📡 Studying core concepts like Networking, HTTP/HTTPS, Memory Management, Pointers & References
-  - 📚 Learning from trusted resources:
-    - Online Platforms: W3Schools, Medium, Dev Blogs, YouTube
-    - Books:
-      - [Object-Oriented PHP 7 and Database Programming (Rokomari)](https://www.rokomari.com/book/176543/object-oriented-php7-and-database-programming)
-      - [Sobar Jonno PHP 7 Programming Language (Rokomari)](https://www.rokomari.com/book/163868/sobar-jonno-php-7-programming-language)
-      - [Hate Kolome JavaScript (Rokomari)](https://www.rokomari.com/book/202772/hate-kolome-javascript)
-      - [Eloquent JavaScript (Online)](https://eloquentjavascript.net/)
+## Client Work
 
+| Project | Stack | Scope |
+|---|---|---|
+| [HayatiVape](https://hayativape.co.uk/) | WooCommerce, DigitalOcean, Nginx, Cloudflare | Full build + server infrastructure + SEO architecture |
+| [VapeHub](https://vapehub.co.uk) | WooCommerce (~$500K/mo volume) | Performance optimization, checkout UX, Core Web Vitals |
+| [LifeFriendSurance](https://lifefriendsurance.com) | WordPress, VPS | Full site recovery post-hack, VPS migration, SSL, hardening |
 
-## 🌟 Mentorship & Community Learning
+---
 
-- 👨‍🏫 Actively following and learning from industry leaders:
-  - **Tareq Hasan** – Founder of [weDevs](https://tareq.co/)
-  - **Omar Al Zabir** – Co-Founder, CTO at [Kahf.com.tr](https://omaralzabir.com/) | Engineering Manager at [Meta](https://www.meta.com/)
-  
-- 💬 Engaging with their work, articles, and community contributions to stay updated with the latest trends, beign focused on religion and physically fit, tech leadership, and business growth.
+## Employment
 
+**WordPress Developer — Fjord Media** *(Feb 2025 – Present, Remote / Norway)*
+Custom Elementor widgets, WooCommerce plugins with complex pricing logic, AJAX performance optimization, managed recovery of 50+ hacked sites.
 
-## Contact
-📧 Email: hmalaminmb4@gmail.com
-📱 Phone: +8801743 90 90 15
+**WordPress Developer — Mediavest AS** *(Jan 2023 – Jan 2025, Remote / Norway)*
+WooCommerce variation UX with Alpine.js + REST API, custom plugin development, site migrations and hosting-level infrastructure management.
+
+**WordPress Developer — BluBird Interactive Ltd** *(Nov 2021 – Jan 2023, Dhaka)*
+Custom plugin and theme development with PHP OOP, CPTs, REST API, WooCommerce extensions, site recovery and migrations.
+
+---
+
+## Infrastructure I Run Daily
+
+```
+20+ production sites · Ubuntu 22.04 LTS · Nginx · PHP-FPM · MySQL
+Cloudflare (WAF + bot rules + caching) · GitHub Actions CI/CD
+DigitalOcean / Vultr VPS · SSL/TLS · fail2ban · OPcache
+```
+
+---
+
+## Currently Studying
+
+- PHPUnit testing for WordPress plugins
+- WP_Mock for unit-testable hook-driven code
+- Advanced DSA on [LeetCode](https://leetcode.com/u/dev-alamin/) — consistent daily practice
+
+---
+
+## Profiles
+
+- 🔌 WordPress.org: [coderalamin](https://profiles.wordpress.org/coderalamin/)
+- 🧠 LeetCode: [dev-alamin](https://leetcode.com/u/dev-alamin/)
+- 🎨 ThemeForest: [Shalik Theme](https://themeforest.net/user/shalik-theme/portfolio)
+- 💼 LinkedIn: [contactalamin](https://www.linkedin.com/in/contactalamin/)
+- 🌐 Portfolio: [almn.me](https://almn.me)
