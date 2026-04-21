@@ -56,7 +56,7 @@ My work is production-grade: sanitized inputs, prepared SQL statements, proper n
 ## Open Source Projects
 
 ### [EntryDashboard – Forms Entries Manager](https://wordpress.org/plugins/entries-manager/)
-*Live on WordPress.org 30+ active installation*
+*Live on WordPress.org 40+ active installation*
 
 A centralized form submission management system — a lightweight CRM built directly inside WordPress. Supports WPForms, Contact Form 7, and Elementor Forms.
 
