@@ -59,18 +59,20 @@ A centralized form submission management system — a lightweight CRM built dire
 
 ---
 
-### [FatalFlow](https://wordpress.org/plugins/fatalflow/)
-*Live on WordPress.org 10+ active installation*
+### [FatalFlow – WordPress Fatal Error Recovery & SEO Protection](https://wordpress.org/plugins/fatalflow/)
+*Live on WordPress.org · 10+ active installations*
 
-A lightweight WordPress debugging and fatal error tracking plugin focused on improving the developer experience during production issues and plugin/theme conflicts.
+A system-level WordPress recovery plugin designed to prevent the “White Screen of Death” during fatal PHP errors, database crashes, and broken deployments.
 
 **Technical highlights:**
-- Centralized fatal error logging inside WordPress admin
-- PHP error and exception tracking with readable stack traces
-- Lightweight architecture with minimal performance overhead
-- WordPress-friendly debugging workflow without relying entirely on server access
-- Clean admin UI focused on developer productivity
-- Built with WordPress coding standards and extensibility in mind
+- MU-plugin based recovery architecture
+- `db-error.php` drop-in deployment for database outage handling
+- Intercepts fatal PHP errors before full WordPress bootstrap
+- SEO-safe `503 Service Unavailable` responses with `Retry-After` headers
+- Database-independent fallback rendering
+- Automatic cleanup and recovery file management
+- WP-CLI aware execution flow
+- Modern glassmorphism recovery UI with branding support
 
 ---
 
