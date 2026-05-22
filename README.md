@@ -1,4 +1,4 @@
-# Al Amin — WordPress Engineer
+# Al Amin — WordPress System Engineer
 
 **Building production-grade WordPress systems. Not themes. Not page builders. Engineered plugins, WooCommerce infrastructure, and server-managed deployments.**
 
@@ -16,47 +16,37 @@ My work is production-grade: sanitized inputs, prepared SQL statements, proper n
 
 ## Core Competencies
 
-**WordPress Engineering**
-- Custom plugin development with OOP PHP — service container pattern, hook-based architecture, single-responsibility classes
-- WooCommerce extensions: custom pricing logic, checkout flow, cart manipulation, REST API endpoints, order lifecycle hooks
-- Gutenberg block development and Full Site Editing (FSE) integration
-- Custom Post Types, taxonomies, metadata modeling, and query optimization
-- REST API design: custom endpoints, authentication, pagination, caching layers
-- WP-CLI automation for deployments, data migrations, and maintenance tasks
+### WordPress Engineering
+- Custom plugin development with OOP PHP
+- WooCommerce customization and REST API integrations
+- Gutenberg block & Full Site Editing (FSE) development
+- Custom Post Types, taxonomies, and query optimization
+- WP-CLI automation and maintenance tooling
 
-**DevOps & Server Infrastructure**
-- Managing 20+ websites on VPS (Ubuntu + Nginx) — zero shared hosting
-- Cloudflare configuration: WAF rules, bot protection, caching behavior, page rules, Workers
-- SSL/TLS management, DNS configuration, HTTP/2 optimization
-- Nginx server block configuration, PHP-FPM tuning, OPcache setup
-- DigitalOcean, Vultr, Cloudways, WP Engine, Pantheon deployments
-- CI/CD pipelines with GitHub Actions for automated plugin deployments
-- Network-level security: rate limiting, fail2ban, IP allowlisting, bad bot filtering at the edge
+### DevOps & Infrastructure
+- Managing 20+ VPS-hosted WordPress websites (Ubuntu + Nginx)
+- Cloudflare, SSL/TLS, DNS, caching, and security configuration
+- PHP-FPM, OPcache, Nginx tuning, and deployment workflows
+- GitHub Actions-based CI/CD pipelines
+- Experience with DigitalOcean, Vultr, Cloudways, WP Engine, and Pantheon
 
-**Performance Engineering**
+### Performance & Security
 - Core Web Vitals optimization (LCP, CLS, INP)
-- Object caching, transient API, full-page caching strategies
-- Database query profiling with Query Monitor and slow query logs
-- Asset optimization: lazy loading, critical CSS, script defer/async strategy
-- CDN configuration and cache purge automation
+- Database/query optimization and caching strategies
+- Malware cleanup and hacked site recovery
+- Secure REST APIs, OAuth integrations, nonce verification, and WordPress hardening
 
-**Security**
-- Malware remediation and hacked site recovery (50+ sites)
-- Hardening: file permissions, `wp-config.php` protection, xmlrpc disabling, login protection
-- OAuth 2.0 implementation (Google API integration in EntryDashboard)
-- Secure AJAX handlers, REST API authentication, nonce verification
-
-**Frontend**
-- JavaScript (ES6+), Alpine.js, React, jQuery
+### Frontend
+- JavaScript (ES6+), React, Alpine.js, jQuery
 - Tailwind CSS, SCSS, Bootstrap
-- Headless WordPress with Next.js and REST API / WPGraphQL
+- Headless WordPress with Next.js
 
 ---
 
 ## Open Source Projects
 
 ### [EntryDashboard – Forms Entries Manager](https://wordpress.org/plugins/entries-manager/)
-*Live on WordPress.org 40+ active installation*
+*Live on WordPress.org 50+ active installation*
 
 A centralized form submission management system — a lightweight CRM built directly inside WordPress. Supports WPForms, Contact Form 7, and Elementor Forms.
 
@@ -69,17 +59,18 @@ A centralized form submission management system — a lightweight CRM built dire
 
 ---
 
-### [ShopSpark – WooCommerce UX Plugin](https://github.com/dev-alamin/ShopSpark)
-*In active development*
+### [FatalFlow](https://wordpress.org/plugins/fatalflow/)
+*Live on WordPress.org 10+ active installation*
 
-A modular WooCommerce enhancement plugin covering the full shopper journey — shop page, single product, cart, and checkout.
+A lightweight WordPress debugging and fatal error tracking plugin focused on improving the developer experience during production issues and plugin/theme conflicts.
 
-**Features in build:**
-- AJAX Add to Cart, Quick View, floating side cart
-- Variation display enhancements, quantity controls
-- FOMO countdown timers, recently viewed products
-- Delivery time picker at checkout
-- Honeypot + reCAPTCHA on account pages
+**Technical highlights:**
+- Centralized fatal error logging inside WordPress admin
+- PHP error and exception tracking with readable stack traces
+- Lightweight architecture with minimal performance overhead
+- WordPress-friendly debugging workflow without relying entirely on server access
+- Clean admin UI focused on developer productivity
+- Built with WordPress coding standards and extensibility in mind
 
 ---
 
@@ -90,8 +81,26 @@ Contributed to rtCamp's official Google login plugin for WordPress. This plugin 
 
 ---
 
+### [Simple Block](https://github.com/dev-alamin/simple-block)
+*Open-source Gutenberg portfolio block built with the WordPress Interactivity API*
+
+A modern portfolio showcase block focused on smooth frontend UX and experimenting with the WordPress Interactivity API in a practical way.
+
+**Technical highlights:**
+- Built using the WordPress Interactivity API (iAPI)
+- Alpine.js-like reactive state management experience
+- AJAX-powered filtering and searching UX
+- Modal interactions and dynamic frontend state handling
+- Custom Gutenberg block architecture
+- Clean editor and frontend experience
+- Focused on modern block development patterns and scalability
+
+GitHub Repo: https://github.com/dev-alamin/simple-block
+
+---
+
 ### [Read Little – WooCommerce Plugin](https://wordpress.org/plugins/read-little/)
-*Live on WordPress.org*
+*Live on WordPress.org 10+ active installation*
 
 Lightweight plugin to embed documents and images directly inside WooCommerce product pages.
 
@@ -123,7 +132,7 @@ Custom plugin and theme development with PHP OOP, CPTs, REST API, WooCommerce ex
 ## Infrastructure I Run Daily
 
 ```
-20+ production sites · Ubuntu 22.04 LTS · Nginx · PHP-FPM · MySQL
+20+ production sites · Ubuntu 24.04 LTS · Nginx · PHP-FPM · MySQL
 Cloudflare (WAF + bot rules + caching) · GitHub Actions CI/CD
 DigitalOcean / Vultr VPS · SSL/TLS · fail2ban · OPcache
 ```
@@ -133,6 +142,8 @@ DigitalOcean / Vultr VPS · SSL/TLS · fail2ban · OPcache
 ## Currently Studying
 
 - PHPUnit testing for WordPress plugins
+- Gutenberg Block
+- Headless WordPress with Next.js
 - WP_Mock for unit-testable hook-driven code
 - Advanced DSA on [LeetCode](https://leetcode.com/u/dev-alamin/) — consistent daily practice
 
