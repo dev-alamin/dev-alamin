@@ -60,7 +60,7 @@ A centralized form submission management system — a lightweight CRM built dire
 ---
 
 ### [FatalFlow – WordPress Fatal Error Recovery & SEO Protection](https://wordpress.org/plugins/fatalflow/)
-*Live on WordPress.org · 10+ active installations*
+*Live on WordPress.org · 20+ active installations*
 
 A system-level WordPress recovery plugin designed to prevent the “White Screen of Death” during fatal PHP errors, database crashes, and broken deployments.
 
