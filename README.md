@@ -46,7 +46,7 @@ My work is production-grade: sanitized inputs, prepared SQL statements, proper n
 ## Open Source Projects
 
 ### [EntryDashboard – Forms Entries Manager](https://wordpress.org/plugins/entries-manager/)
-*Live on WordPress.org 50+ active installation*
+*Live on WordPress.org 50+ active installations`*
 
 A centralized form submission management system — a lightweight CRM built directly inside WordPress. Supports WPForms, Contact Form 7, and Elementor Forms.
 
@@ -102,7 +102,7 @@ GitHub Repo: https://github.com/dev-alamin/simple-block
 ---
 
 ### [Read Little – WooCommerce Plugin](https://wordpress.org/plugins/read-little/)
-*Live on WordPress.org 10+ active installation*
+*Live on WordPress.org 10+ active installations*
 
 Lightweight plugin to embed documents and images directly inside WooCommerce product pages.
 
