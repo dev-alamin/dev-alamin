@@ -83,7 +83,7 @@ Contributed to rtCamp's official Google login plugin for WordPress. This plugin 
 
 ---
 
-### [Simple Block](https://github.com/dev-alamin/simple-block)
+### [BlockFolio](https://github.com/dev-alamin/simple-block)
 *Open-source Gutenberg portfolio block built with the WordPress Interactivity API*
 
 A modern portfolio showcase block focused on smooth frontend UX and experimenting with the WordPress Interactivity API in a practical way.
