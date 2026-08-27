@@ -87,6 +87,7 @@ Contributed to rtCamp's official Google login plugin for WordPress. This plugin 
 *Open-source Gutenberg portfolio block built with the WordPress Interactivity API*
 
 A modern portfolio showcase block focused on smooth frontend UX and experimenting with the WordPress Interactivity API in a practical way.
+Submitted into [WP Core discussion](https://github.com/WordPress/gutenberg/discussions/55642?sort=new)
 
 **Technical highlights:**
 - Built using the WordPress Interactivity API (iAPI)
@@ -101,8 +102,8 @@ GitHub Repo: https://github.com/dev-alamin/simple-block
 
 ---
 
-### [Read Little – WooCommerce Plugin](https://wordpress.org/plugins/read-little/)
-*Live on WordPress.org 10+ active installations*
+### [WooCommerce Product Preview](https://wordpress.org/plugins/read-little/)
+*Live on WordPress.org 20+ active installations*
 
 Lightweight plugin to embed documents and images directly inside WooCommerce product pages.
 
@@ -112,8 +113,9 @@ Lightweight plugin to embed documents and images directly inside WooCommerce pro
 
 | Project | Stack | Scope |
 |---|---|---|
-| [HayatiVape](https://hayativape.co.uk/) | WooCommerce, DigitalOcean, Nginx, Cloudflare | Full build + server infrastructure + SEO architecture |
-| [VapeHub](https://vapehub.co.uk) | WooCommerce (~$500K/mo volume) | Performance optimization, checkout UX, Core Web Vitals |
+| [Hayati Vape](https://hayativape.co.uk/) | WooCommerce ((~$250k/year volume)), DigitalOcean, Nginx, Cloudflare, Media off-loading(CDN) | Full build + server infrastructure + SEO architecture |
+| [Vape Hub](https://vapehub.co.uk) | WooCommerce (~$6M/year volume) | Performance optimization, checkout UX, Core Web Vitals (currently shifted into SPA) |
+| [Spider Solutions](https://hjemmetjeneste.spidersolutions.no/) | Norwegian agency | Fully custom coded from Figma - Tailwind css, native WP settings API | 
 | [LifeFriendSurance](https://lifefriendsurance.com) | WordPress, VPS | Full site recovery post-hack, VPS migration, SSL, hardening |
 
 ---
