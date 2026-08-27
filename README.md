@@ -1,4 +1,5 @@
 # Al Amin — WordPress System Engineer
+<img width="1771" height="885" alt="image" src="https://github.com/user-attachments/assets/103c9cee-583a-4609-955a-525c20176681" />
 
 **Building production-grade WordPress systems. Not themes. Not page builders. Engineered plugins, WooCommerce infrastructure, and server-managed deployments.**
 
